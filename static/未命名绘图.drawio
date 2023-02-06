@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T08:48:17.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bPLaWQ29jsc77O-m_PBm" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T09:02:29.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XlhPoLRVfZGmTyyznFWZ" version="20.8.5" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1588" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -10,9 +10,11 @@
         <mxCell id="677b7b8949515195-26" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="410" width="920" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="-wUCDZ6KvW2jVEQ85bn8-1" value="新闻" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="60" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="新闻" link="data:page/id,03018318-947c-dd8e-b7a3-06fadd420f32" id="-wUCDZ6KvW2jVEQ85bn8-1">
+          <mxCell style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana" vertex="1" parent="1">
+            <mxGeometry x="30" y="40" width="60" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="-wUCDZ6KvW2jVEQ85bn8-2" value="好123" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="110" y="40" width="60" height="20" as="geometry" />
         </mxCell>
